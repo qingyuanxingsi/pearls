@@ -1,6 +1,6 @@
 # pearls
 Code written to solve machine learning problems encountered.
-Incluing algorithms but not limiting to the following:
+Including algorithms(or models) but not limited to the following:
 * Classification
   * Convolutional Neural Network(**Sentence Classification(Sentiment Analysis)**)
 * Clustering
