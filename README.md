@@ -2,6 +2,7 @@
 Code written to solve machine learning problems encountered.
 Including algorithms(or models) but not limited to the following:
 * Classification
+  * Random Forest(**Sentiment Analysis**)
   * Convolutional Neural Network(**Sentence Classification(Sentiment Analysis)**)
 * Clustering
 * Regression
