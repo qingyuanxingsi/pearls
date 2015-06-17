@@ -7,5 +7,6 @@ Including algorithms(or models) but not limited to the following:
 * Clustering
 * Regression
   * Gaussian Process Regression(**Time-series prediction(Wind Power Prediction)**)
+  * Support Vector Regression(**Time-series prediction(Wind Power Prediction)**)
 * Feature Selection & Extraction
   * Word2vec
