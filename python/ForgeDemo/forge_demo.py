@@ -2,7 +2,7 @@
 
 from featureforge.feature import input_schema, output_schema
 import unittest
-from featureforge.validate import BaseFeatureFixture, APPROX, EQ
+from featureforge.validate import BaseFeatureFixture, APPROX, EQ, IN, RAISES
 from featureforge.feature import make_feature
 from schema import And
 
